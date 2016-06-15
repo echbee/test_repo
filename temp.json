@@ -1,0 +1,8 @@
+{
+  "CampaignToShow":"PSOnly",
+  "TimeGap":7,
+  "RedirectionUri":"http://www.google.com",
+  "UsersToTarget":0.15,
+  "CampaignContentStringEnUS":"This is in English",
+  "CampaignContentStringJaJP":"This is in Japanese"
+}
