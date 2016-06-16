@@ -1,7 +1,8 @@
 {
   "CampaignToShow":"Toggle",
   "TimeGap":7,
-  "RedirectionUri":"http://www.google.com",
+  "RedirectionUri_PS":"http://www.photoshop.com",
+  "RedirectionUri_LR":"http://lightroom.adobe.com",
   "UsersToTarget":1,
   "PSContentString_EnUS":"Download PS in English!",
   "LRContentString_EnUS":"Download LR in English!",
