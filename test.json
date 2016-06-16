@@ -3,8 +3,8 @@
   "TimeGap":7,
   "RedirectionUri":"http://www.google.com",
   "UsersToTarget":0.15,
-  "PSContentString-EnUS":"Download PS in English!",
-  "LRContentString-EnUS":"Download LR in English!",
-  "PSContentString-JaJP":"Download PS in Japanese!",
-  "LRContentString-JaJP":"Download LR in Japanese!"
+  "PSContentString_EnUS":"Download PS in English!",
+  "LRContentString_EnUS":"Download LR in English!",
+  "PSContentString_JaJP":"Download PS in Japanese!",
+  "LRContentString_JaJP":"Download LR in Japanese!"
 }
