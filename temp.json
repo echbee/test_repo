@@ -4,8 +4,8 @@
   "RedirectionUri_PS":"http://www.adobe.com/go/PSXW_download_PS",
   "RedirectionUri_LR":"https://lightroom.adobe.com",
   "UsersToTarget":1,
-  "PSContentString_EnUS":"Download PS in English!",
-  "LRContentString_EnUS":"Download LR in English!",
+  "PSContentString_EnUS":"Download PS in English!\nThis is next line",
+  "LRContentString_EnUS":"Download LR in English!\nThis is next line",
   "PSContentString_JaJP":"Download PS in Japanese!",
   "LRContentString_JaJP":"Download LR in Japanese!"
 }
