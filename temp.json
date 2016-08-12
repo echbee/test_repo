@@ -2,10 +2,14 @@
   "CampaignToShow":"Toggle",
   "TimeGap":2,
   "RedirectionUri_PS":"http://www.adobe.com/go/PSXW_download_PS",
-  "RedirectionUri_LR":"https://lightroom.adobe.com",
+  "RedirectionUri_LR":"http://www.adobe.com/go/PSXW-download_Lr",
   "UsersToTarget":1,
-  "PSContentString_EnUS":"Download PS in English!\nThis is next line",
-  "LRContentString_EnUS":"Download LR in English!\nThis is next line",
-  "PSContentString_JaJP":"Download PS in Japanese!",
-  "LRContentString_JaJP":"Download LR in Japanese!"
+  "PSHeadlineString_EnUS":"Like creating the perfect look?",
+  "PSHeadlineString_JaJP":"完全な Look を作成したいとお考えですか？",
+  "LRHeadlineString_EnUS":"Want all your photos\neverywhere you are?",
+  "LRHeadlineString_JaJP":"場所を問わず写真に\nアクセスしたいですか？",
+  "PSContentString_EnUS":"Imagine taking it to the next level –\ntry photoshop CC filter effects",
+  "LRContentString_EnUS":"Lightroom keeps them all in one place, plus the best editing tools –\naccess them from your phone, desktop or the web.",
+  "PSContentString_JaJP":"品質をさらに高めましょう。\nPhotoshop CC フィルターの効果をお試しください。",
+  "LRContentString_JaJP":"Lightroom はすべての写真を一箇所に集約して便利なツールで編集できるようにします。\nデバイス、デスクトップ、 Web からアクセスしてください。"
 }
