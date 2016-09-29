@@ -1,9 +1,9 @@
 {
   "CampaignToShow":"Toggle",
-  "TimeGap":2,
+  "TimeGap":7,
   "RedirectionUri_PS":"http://www.adobe.com/go/PSXW_download_PS",
   "RedirectionUri_LR":"http://www.adobe.com/go/PSXW-download_Lr",
-  "UsersToTarget":1,
+  "UsersToTarget":0.05,
   "PSHeadlineString_EnUS":"Like creating the perfect look?",
   "PSHeadlineString_JaJP":"完全な Look を作成したいとお考えですか？",
   "LRHeadlineString_EnUS":"Want all your photos\neverywhere you are?",
